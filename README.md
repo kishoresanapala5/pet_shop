@@ -1,3 +1,3 @@
 # Jenkins trigger
 maven
-jenkins i have to used GitHub hook trigger for GITsc polling
+I have change the data in github simultaneosly in jenkins build process will be automatically changes appear
